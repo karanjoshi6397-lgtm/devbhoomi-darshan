@@ -1,3 +1,5 @@
+
+
 # 🌄 Devbhoomi Darshan – The Soul of Uttarakhand
 
 Welcome to **Devbhoomi Darshan**, a digital gateway to the land of gods – Uttarakhand.
@@ -43,9 +45,16 @@ From the peaceful ghats of Rishikesh to the majestic peaks of the Himalayas, Dev
 
 ## 🤝 Credits
 
-### 👨‍💻 Created by
+### 👨‍💻 Created by  
+[![GitHub](https://img.shields.io/badge/karan_joshi-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
 
-Karan
+---
+
+### 🎓 Under the Guidance of  
+
+[![GitHub](https://img.shields.io/badge/Kunal_Upadhyay-FF6F61?style=for-the-badge&logo=github)](https://github.com/teacher1)
+
+[![GitHub](https://img.shields.io/badge/Prateek_Kumar-FF6F61?style=for-the-badge&logo=github)](https://github.com/teacher2)
 
 ### 🎓 Under the Guidance of
 
@@ -54,13 +63,13 @@ Kunal Upadhyay
 
 ---
 
-## 📬 Contact
+## 📬 Contact the Developer  
 
-Feel free to connect for feedback, suggestions, or collaboration:
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-* 📧 Gmail
-* 💼 LinkedIn
-* 💻 GitHub
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/your-username)
 
 ---
 
