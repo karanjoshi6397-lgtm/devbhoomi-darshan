@@ -31,8 +31,9 @@ Optimized for all devices — mobile, tablet, and desktop.
 ## 🛠️ Technologies Used
 
 **HTML5** – Structured and semantic content
-**CSS3** – Styling, animations, and responsive design
-**JavaScript** – Interactive elements and dynamic behavior
+**TailwindCSS** – Styling, animations, and responsive design
+**animatcss** – Interactive elements and dynamic behavior
+**google fonts** - For better font
 
 ---
 
