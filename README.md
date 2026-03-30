@@ -32,9 +32,9 @@ Optimized for all devices — mobile, tablet, and desktop.
 
 **HTML5** – Structured and semantic content
 
-**TailwindCSS** – Styling, animations, and responsive design
+**TailwindCSS** – Styling, animations, and design
 
-**animatcss** – Interactive elements and dynamic behavior
+**animatcss** – For cards animation
 
 **google fonts** - For better font
 
