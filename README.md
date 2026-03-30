@@ -56,12 +56,7 @@ From the peaceful ghats of Rishikesh to the majestic peaks of the Himalayas, Dev
 
 [![GitHub](https://img.shields.io/badge/Prateek_Kumar-FF6F61?style=for-the-badge&logo=github)](https://github.com/teacher2)
 
-### 🎓 Under the Guidance of
 
-Prateek Kumar
-Kunal Upadhyay
-
----
 
 ## 📬 Contact the Developer  
 
